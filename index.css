@@ -1,15 +1,14 @@
 body {
     margin: 0;
-    background: #1b2431;
-    text-align: center;
+    background: #a4aebd;
 }
 
 .container {
-    border: 3px solid #D5D4D8;
     border-radius: 15px;
     padding: 80px 40px;
     width: 400px;
     margin: 70px auto;
+    background: #1b2431;
 }
 
 .hero {
@@ -38,6 +37,8 @@ p {
     color: #f2f1f3;
     border-radius: 8px;
     border: 0;
+    font-weight: 600;
+    letter-spacing: 1px;
 }
 
 .password {
